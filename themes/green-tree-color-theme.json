@@ -12,8 +12,8 @@
 		"dropdown.foreground": "#222222",
 		"dropdown.listBackground": "#E2F1E3",
 		"list.activeSelectionBackground": "#00AA0080",
-		"list.hoverBackground": "#6C6D74", // settings lists and nofitication dialog hover
-		"list.hoverForeground": "#FFF",
+		"list.hoverBackground": "#DDD", // settings lists and nofitication dialog hover
+		"list.hoverForeground": "#222",
 		"list.inactiveSelectionBackground": "#DDD",
 		"list.focusBackground": "#6C6D74",
 		"input.background": "#E2F1E3",
@@ -21,12 +21,8 @@
 		"input.foreground": "#6C6D74",
 		"inputOption.activeBorder": "#00AA0080",
 		"inputValidation.infoForeground": "#E0C494",
-		// "errorForeground": "#C44747",
-		// "textLink.foreground": "#ff0000",
 		"textBlockQuote.background": "#DDD",
 		// Workbench: Settings
-		// "settings.headerForeground": "#000000",
-		// "settings.dropdownBackground": "#ff0000",
 		// editor
 		"editor.background": "#E2F1E3",
 		"editor.foreground": "#232323",
@@ -49,7 +45,7 @@
 		"editorIndentGuide.activeBackground": "#081E2580",
 		"editorIndentGuide.background": "#00AA00A0",
 		"editorLineNumber.activeForeground": "#00F",
-		"editorLineNumber.foreground": "#222",
+		"editorLineNumber.foreground": "#232323",
 		"editorPane.background": "#E2F1E3",
 		"editorWhitespace.foreground": "#586E7540",
 		// Editor breadcrumb
@@ -71,7 +67,6 @@
 		// peek view editor
 		"peekViewEditor.background": "#E2F1E3",
 		"peekViewTitleLabel.foreground": "#00AA00A0",
-		// "textPreformat.foreground": "#00AAFF",
 		// notification
 		"notifications.background": "#6C6D74",
 		"notifications.foreground": "#EEEEEE",
@@ -95,11 +90,7 @@
 		"panelTitle.activeBorder": "#555555",
 		"panelTitle.activeForeground": "#6C6D74",
 		"panelTitle.inactiveForeground": "#6C6D74",
-		// "badge.foreground": "#ff0000",
 		"notificationLink.foreground": "#ff0000",
-		// "input.placeholderForeground": "#ff0000",
-		// "textLink.foreground": "#ff0000",
-		// "activityBarBadge.foreground": "#ff0000",
 		// Workbench: Editors
 		"editorGroup.border": "#0F0",
 		"editorGroup.dropBackground": "#FFFFFF40",
@@ -113,14 +104,12 @@
 		"activityBar.foreground": "#92e1fd",
 		"activityBar.dropBackground": "#FFFFFF40",
 		"activityBarBadge.background": "#6C6D74",
-		// "activityBarBadge.foreground": "",
 		// Workbench: Side Bar
 		"sideBar.border": "#8CF6A6",
 		"sideBar.background": "#E2F1E3",
-		"sideBar.foreground": "#222222",
+		"sideBar.foreground": "#222",
 		"sideBar.dropBackground": "#FFFFFF40",
 		"sideBarSectionHeader.background": "#00AA0060",
-		// "sideBarTitle.foreground": "#",
 		// Workbench: Status Bar
 		"statusBar.foreground": "#EEEEEE",
 		"statusBar.background": "#6C6D74",
@@ -146,7 +135,6 @@
 		// Interactive Playground
 		"walkThrough.embeddedEditorBackground": "#3d191914",
 		"welcomePage.background": "#E2F1E3",
-		// "welcomePage.buttonBackground": "#E2F1E3",
 		// Workbench: Terminal
 		// Colors sourced from the official palette http://ethanschoonover.com/solarized
 		"terminal.foreground": "#555555FF",
