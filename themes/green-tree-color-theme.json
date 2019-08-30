@@ -22,6 +22,10 @@
 		"inputOption.activeBorder": "#00AA0080",
 		"inputValidation.infoForeground": "#E0C494",
 		"textBlockQuote.background": "#DDD",
+		"notificationLink.foreground": "#ff0000",
+		// Workbench: Quick Open
+		"pickerGroup.border": "#2AA19899",
+		"pickerGroup.foreground": "#2AA19899",
 		// Workbench: Settings
 		// editor
 		"editor.background": "#E2F1E3",
@@ -74,9 +78,9 @@
 		"notificationCenterHeader.background": "#6C6D74",
 		// Workbench: Title
 		"titleBar.activeBackground": "#217436",
-		"titleBar.activeForeground": "#EEEEEE",
+		"titleBar.activeForeground": "#E2F1E3",
 		"menu.foreground": "#222222DD",
-		// Workbench: Tabs
+		// Workbench: Editor Tabs
 		"tab.border": "#6C6D7480",
 		"tab.activeBackground": "#EEEEEE",
 		"tab.activeForeground": "#232323",
@@ -87,10 +91,9 @@
 		"panel.border": "#0F0",
 		"panel.background": "#E2F1E3",
 		"panel.dropBackground": "#FFFFFF40",
-		"panelTitle.activeBorder": "#555555",
-		"panelTitle.activeForeground": "#6C6D74",
-		"panelTitle.inactiveForeground": "#6C6D74",
-		"notificationLink.foreground": "#ff0000",
+		"panelTitle.activeBorder": "#565656",
+		"panelTitle.activeForeground": "#565656",
+		"panelTitle.inactiveForeground": "#565656",
 		// Workbench: Editors
 		"editorGroup.border": "#0F0",
 		"editorGroup.dropBackground": "#FFFFFF40",
@@ -111,9 +114,9 @@
 		"sideBar.dropBackground": "#FFFFFF40",
 		"sideBarSectionHeader.background": "#00AA0060",
 		// Workbench: Status Bar
-		"statusBar.foreground": "#EEEEEE",
 		"statusBar.background": "#6C6D74",
 		"statusBar.debuggingBackground": "#6C6D74",
+		"statusBar.foreground": "#EEEEEE",
 		"statusBar.noFolderBackground": "#6C6D74",
 		"statusBarItem.activeBackground": "#ff0000",
 		"statusBarItem.hoverBackground": "#6C6D74",
@@ -121,13 +124,11 @@
 		"statusBarItem.prominentForeground": "#ff0000",
 		"statusBarItem.prominentHoverBackground": "#6C6D74",
 		"statusBarItem.remoteBackground": "#6C6D74",
+		"statusBarItem.remoteForeground": "#EEEEEE",
 		// Workbench: Debug
 		"debugToolBar.background": "#DDD6C1",
 		"debugExceptionWidget.background": "#DDD6C1",
 		"debugExceptionWidget.border": "#AB395B",
-		// Workbench: Quick Open
-		"pickerGroup.border": "#2AA19899",
-		"pickerGroup.foreground": "#2AA19899",
 		// Extensions
 		"extensionButton.prominentBackground": "#00AA00E0",
 		"extensionButton.prominentForeground": "#EEEEEE",
@@ -137,10 +138,10 @@
 		"welcomePage.background": "#E2F1E3",
 		// Workbench: Terminal
 		// Colors sourced from the official palette http://ethanschoonover.com/solarized
-		"terminal.foreground": "#555555FF",
+		"terminal.foreground": "#565656",
 		"terminal.ansiBlack": "#073642",
 		"terminal.ansiRed": "#dc322f",
-		"terminal.ansiGreen": "#00DD00",
+		"terminal.ansiGreen": "#00AA00E0",
 		"terminal.ansiYellow": "#b58900",
 		"terminal.ansiBlue": "#268bd2",
 		"terminal.ansiMagenta": "#d33682",

@@ -2,12 +2,12 @@
     "name": "green-tree",
     "displayName": "Green Tree Theme    ",
     "description": "A green theme for vscode",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "author": {"name": "Steven N. Yang", "email": "steven_nyang@outlook.com"},
     "publisher": "stevennyang",
     "repository": {"url": "https://github.com/snyang/vscode-theme-green-tree"},
     "engines": {
-        "vscode": "^1.37.0"
+        "vscode": "^1.12.0"
     },
     "categories": [
         "Themes"
