@@ -33,7 +33,7 @@
 		"editor.findMatchBackground": "#FFFFFF",
 		"editor.findMatchBorder": "#EEEEEE",
 		"editor.findMatchHighlightBackground": "#E0C494",
-		"editor.inactiveSelectionBackground": "#AAFFFF",
+		"editor.inactiveSelectionBackground": "#FFFFFF",
 		"editor.lineHighlightBackground": "#E8F2FE",
 		"editor.selectionBackground": "#FFFFFF",
 		"editor.selectionHighlightBackground": "#AAFFFF",
@@ -41,7 +41,7 @@
 		"editor.snippetFinalTabstopHighlightBorder": "#DDD",
 		"editor.snippetTabstopHighlightBackground": "#FFFFFF80",
 		"editor.snippetTabstopHighlightBorder": "#DDD",
-		"editor.wordHighlightBackground": "#FFFFFF",
+		"editor.wordHighlightBackground": "#ffff0040",
 		// Editor.Gutter and Line Number
 		"editorBracketMatch.background": "#00AA00A0",
 		"editorCursor.foreground": "#657B83",
@@ -146,7 +146,7 @@
 		"terminal.ansiBlue": "#268bd2",
 		"terminal.ansiMagenta": "#d33682",
 		"terminal.ansiCyan": "#2aa198",
-		"terminal.ansiWhite": "#eee8d5",
+		"terminal.ansiWhite": "#00FF00",
 		"terminal.ansiBrightBlack": "#586e75",
 		"terminal.ansiBrightRed": "#cb4b16",
 		"terminal.ansiBrightGreen": "#586e75",
@@ -154,10 +154,9 @@
 		"terminal.ansiBrightBlue": "#839496",
 		"terminal.ansiBrightMagenta": "#6c71c4",
 		"terminal.ansiBrightCyan": "#93a1a1",
-		"terminal.ansiBrightWhite": "#eee8d5",
+		"terminal.ansiBrightWhite": "#00AA00",
 	},
-	"tokenColors": [
-		{
+	"tokenColors": [{
 			"scope": [
 				"meta.embedded",
 				"source.groovy.embedded"

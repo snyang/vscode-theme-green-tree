@@ -33,7 +33,7 @@
 		"editor.findMatchBackground": "#FFFFFF",
 		"editor.findMatchBorder": "#EEEEEE",
 		"editor.findMatchHighlightBackground": "#E0C494",
-		"editor.inactiveSelectionBackground": "#AAFFFF",
+		"editor.inactiveSelectionBackground": "#FFFFFF",
 		"editor.lineHighlightBackground": "#E8F2FE",
 		"editor.selectionBackground": "#FFFFFF",
 		"editor.selectionHighlightBackground": "#AAFFFF",
@@ -41,7 +41,7 @@
 		"editor.snippetFinalTabstopHighlightBorder": "#DDD",
 		"editor.snippetTabstopHighlightBackground": "#FFFFFF80",
 		"editor.snippetTabstopHighlightBorder": "#DDD",
-		"editor.wordHighlightBackground": "#FFFFFF",
+		"editor.wordHighlightBackground": "#ffff0040",
 		// Editor.Gutter and Line Number
 		"editorBracketMatch.background": "#00AA00A0",
 		"editorCursor.foreground": "#657B83",
