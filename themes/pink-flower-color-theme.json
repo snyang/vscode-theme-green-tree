@@ -15,7 +15,8 @@
 		"list.hoverBackground": "#ededed", // settings lists and notification dialog hover
 		"list.hoverForeground": "#222222",
 		"list.inactiveSelectionBackground": "#ededed",
-		"list.focusBackground": "#6C6D74",
+		// also used in the breadcrumb
+		"list.focusBackground": "#DDD",
 		"input.background": "#F1E0E1",
 		"input.border": "#DDD",
 		"input.foreground": "#6C6D74",
@@ -53,8 +54,11 @@
 		"editorPane.background": "#E2F1E3",
 		"editorWhitespace.foreground": "#586E7540",
 		// Editor breadcrumb
+		"breadcrumb.activeSelectionForeground": "#00AA0080",
+		"breadcrumb.focusForeground": "#232323",
 		"breadcrumb.background": "#ededed",
 		"breadcrumb.foreground": "#232323",
+		"breadcrumbPicker.background": "#F1E0E1",
 		// Editor Widget
 		"widget.shadow": "#8CF6A6",
 		"editorWidget.background": "#6C6D74",
@@ -66,7 +70,7 @@
 		"editorSuggestWidget.border": "#808080",
 		"editorSuggestWidget.background": "#F1E0E1",
 		"editorSuggestWidget.foreground": "#222222",
-		"editorSuggestWidget.selectedBackground": "#E8F2FE",
+		"editorSuggestWidget.selectedBackground": "#DDD",
 		"listFilterWidget.background": "#F1E0E1",
 		// peek view editor
 		"peekViewEditor.background": "#F1E0E1",
