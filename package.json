@@ -2,20 +2,21 @@
     "name": "green-tree",
     "displayName": "Green Tree Theme",
     "description": "A green theme for vscode",
-    "version": "1.1.8",
+    "license": "MIT",
+    "version": "1.1.9",
     "author": {
         "name": "Steven N. Yang",
         "email": "steven_nyang@outlook.com"
     },
     "publisher": "stevennyang",
     "repository": {
-				"type": "git",
+        "type": "git",
         "url": "https://github.com/snyang/vscode-theme-green-tree.git"
-		},
-		"bugs": {
-			"url": "https://github.com/snyang/vscode-theme-green-tree/issues"
-		},
-		"homepage": "https://github.com/snyang/vscode-theme-green-tree",
+    },
+    "bugs": {
+        "url": "https://github.com/snyang/vscode-theme-green-tree/issues"
+    },
+    "homepage": "https://github.com/snyang/vscode-theme-green-tree",
     "engines": {
         "vscode": "^1.12.0"
     },
