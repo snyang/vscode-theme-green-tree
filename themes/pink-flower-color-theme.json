@@ -8,16 +8,16 @@
 		// controls
 		"button.background": "#6C6D74",
 		"button.foreground": "#EEEEEE",
-		"dropdown.background": "#F1E0E1",
+		"dropdown.background": "#FFF0F1",
 		"dropdown.foreground": "#222222",
-		"dropdown.listBackground": "#F1E0E1",
+		"dropdown.listBackground": "#FFF0F1",
 		"list.activeSelectionBackground": "#00AA0080",
 		"list.hoverBackground": "#ededed", // settings lists and notification dialog hover
 		"list.hoverForeground": "#222222",
 		"list.inactiveSelectionBackground": "#ededed",
 		// also used in the breadcrumb
 		"list.focusBackground": "#DDD",
-		"input.background": "#F1E0E1",
+		"input.background": "#FFF0F1",
 		"input.border": "#DDD",
 		"input.foreground": "#6C6D74",
 		"inputOption.activeBorder": "#00AA0080",
@@ -29,7 +29,7 @@
 		"pickerGroup.foreground": "#2AA19899",
 		// Workbench: Settings
 		// editor
-		"editor.background": "#F1E0E1",
+		"editor.background": "#FFF0F1",
 		"editor.foreground": "#232323",
 		"editor.findMatchBackground": "#E0C494",
 		"editor.findMatchBorder": "#EEEEEE",
@@ -58,7 +58,7 @@
 		"breadcrumb.focusForeground": "#232323",
 		"breadcrumb.background": "#ededed",
 		"breadcrumb.foreground": "#232323",
-		"breadcrumbPicker.background": "#F1E0E1",
+		"breadcrumbPicker.background": "#FFF0F1",
 		// Editor Widget
 		"widget.shadow": "#8CF6A6",
 		"editorWidget.background": "#6C6D74",
@@ -66,14 +66,14 @@
 		"editorInfo.border": "#808080",
 		"editorInfo.foreground": "#222222",
 		"editorHoverWidget.border": "#808080",
-		"editorHoverWidget.background": "#F1E0E1",
+		"editorHoverWidget.background": "#FFF0F1",
 		"editorSuggestWidget.border": "#808080",
-		"editorSuggestWidget.background": "#F1E0E1",
+		"editorSuggestWidget.background": "#FFF0F1",
 		"editorSuggestWidget.foreground": "#222222",
 		"editorSuggestWidget.selectedBackground": "#DDD",
-		"listFilterWidget.background": "#F1E0E1",
+		"listFilterWidget.background": "#FFF0F1",
 		// peek view editor
-		"peekViewEditor.background": "#F1E0E1",
+		"peekViewEditor.background": "#FFF0F1",
 		"peekViewTitleLabel.foreground": "#00AA00A0",
 		// notification
 		"notifications.background": "#6C6D74",
@@ -106,7 +106,7 @@
 		"activityBarBadge.background": "#6C6D74",
 		// Workbench: Side Bar
 		"sideBar.border": "#8CF6A6",
-		"sideBar.background": "#F1E0E1",
+		"sideBar.background": "#FFF0F1",
 		"sideBar.foreground": "#222222",
 		"sideBar.dropBackground": "#FFFFFF40",
 		"sideBarSectionHeader.background": "#00AA0060",
@@ -132,10 +132,10 @@
 		"extensionButton.prominentHoverBackground": "#584c27aa",
 		// Interactive Playground
 		"walkThrough.embeddedEditorBackground": "#3d191914",
-		"welcomePage.background": "#F1E0E1",
+		"welcomePage.background": "#FFF0F1",
 		// Workbench: Panel (Terminal...)
 		"panel.border": "#0F0",
-		"panel.background": "#F1E0E1",
+		"panel.background": "#FFF0F1",
 		"panel.dropBackground": "#FFFFFF40",
 		"panelTitle.activeBorder": "#565656",
 		"panelTitle.activeForeground": "#565656",
